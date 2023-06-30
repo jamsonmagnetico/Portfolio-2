@@ -11,7 +11,7 @@ The data analyst will create a dashboard answering the following questions:
 
 Methodology:
 1. Source of data: (https://divvy-tripdata.s3.amazonaws.com/index.html)
-2. Program used for data cleaning: Microsoft Excel
+2. Program used for data cleaning and analysis: Microsoft Excel (Please see the attached file for the values taken during the cleaning analysis)
 3. Visualization tool: Tableau (https://public.tableau.com/app/profile/jamson5079/viz/Portfolio2CyclisticBikeAnalysis/Dashboard1)
 
 
